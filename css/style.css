@@ -381,7 +381,7 @@ h5, h6 {
 
 h1 {
   margin-top: 0;
-  font-size: 2.074em; }
+  font-size: 3em; }
 
 h2 {
   font-size: 1.728em; }
@@ -745,13 +745,13 @@ select {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 60px;
+  height: 80px;
   color: #fff;
   transition: 0.7s; }
 
 .navbar__logo {
-  font-size: 1.325rem;
-  transition: 0;
+  font-size: 0rem;
+  transition: 0s;
   color: #fff;
   text-decoration: none; }
 
@@ -797,7 +797,7 @@ select {
 .navbar--extended {
   background-color: transparent; }
   .navbar--extended .navbar__inner {
-    height: 60px;
+    height: 80px;
     color: #ffffff; }
 
 /*! responsive-nav.js 1.0.39 by @viljamis */
@@ -912,8 +912,8 @@ select {
 .hero__text {
   opacity: 0.85;
   line-height: 1.7;
-  text-align: left;
-  font-size: 1.1em; }
+  text-align: center;
+  font-size: 2em; }
 
 .hero .button {
   margin: 12pt 8pt; }
@@ -997,7 +997,7 @@ select {
 
 .step__text {
   max-width: 36ch;
-  text-align: left;
+  text-align: center;
   margin-left: auto;
   margin-right: auto; }
 
