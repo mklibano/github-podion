@@ -795,9 +795,9 @@ select {
 
 /*--- Extended and transparent version ---*/
 .navbar--extended {
-  background-color: transparent; }
+  background-color: #404bb6; }
   .navbar--extended .navbar__inner {
-    height: 80px;
+    height: 70px;
     color: #ffffff; }
 
 /*! responsive-nav.js 1.0.39 by @viljamis */
@@ -1207,7 +1207,7 @@ select {
 
 .page__header {
   position: relative;
-  color: #000;
+  color: #ffffff;
   box-shadow: 0 4px 11px rgba(124, 146, 169, 0.5);
   width: 100%; }
 
