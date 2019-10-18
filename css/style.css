@@ -1392,3 +1392,17 @@ select {
         border-bottom: 1px solid #6C63FF;
         transform: none;
         transition: none; } }
+
+#mc_embed_signup{clear:left; font:20px Helvetica,Arial,sans-serif; width:100%;}
+/* puts Mailchimp fields in a row */
+.clear {
+  display: inline-block;
+}
+.button {
+  border-color: #6C63FF;
+  border-width: 2px;
+  color: #ffffff;
+  background-color: #6C63FF;
+}
+/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
+ We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
